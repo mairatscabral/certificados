@@ -1,4 +1,4 @@
-# Lista de Certificados
+# Lista de Certificados - Conteúdos Diversos
 
 1. **Hacking de Carreira**  
 **Instituição**: WoMakers Code  

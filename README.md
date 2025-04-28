@@ -12,6 +12,8 @@ Sou Maíra Cabral, estudante de **Bacharelado em Sistemas de Informação** na *
 
 ### 📊 [Dados](dados/certificados-dados.md)
 
+### 🤖 [Inteligência Artificial](inteligencia-artificial/certificados-ia.md)
+
 ### 🌐 [Desenvolvimento Web](desenvolvimento-web/certificados-desenvolvimento-web.md)
 
 ### 📈 [Metodologias](metodologias/certificados-metodologias.md)
