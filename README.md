@@ -1,4 +1,4 @@
-# 🎓 Certificados (página em construção)
+# 🎓 Certificados
 
 Bem-vindo(a) ao meu repositório de **certificados**! Aqui estão reunidos os cursos, formações e certificações que venho conquistando ao longo da minha trajetória acadêmica e profissional.
 
