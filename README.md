@@ -10,12 +10,12 @@ Sou Maíra Cabral, estudante de **Bacharelado em Sistemas de Informação** na *
 
 ## 🧠 Certificados por área
 
-### 📊 Dados
+### 📊 [Dados](dados/certificados-dados.md)
 
-### 🌐 Desenvolvimento Web
+### 🌐 [Desenvolvimento Web](desenvolvimento-web/certificados-desenvolvimento-web.md)
 
-### 📈 Metodologias
+### 📈 [Metodologias](metodologias/certificados-metodologias.md)
 
-### 🌱 Desenvolvimento Pessoal
+### 🌱 [Desenvolvimento Pessoal](desenvolvimento-pessoal/certificados-desenvolvimento-pessoal.md)
 
-### 📚 Outros
+### 📚 [Outros](outros/certificados-outros.md)
