@@ -1,5 +1,11 @@
 # Lista de Certificados - Desenvolvimento Pessoal
- 
+
+1. **Jornada para o Futuro – Academy**  
+**Instituição**:  Cia de Talentos   
+**Data de Conclusão**: 01/05/2025  
+**Carga Horária**: 3 meses  
+**Descrição**: O Jornada para o Futuro é um programa completo de desenvolvimento oferecido pela Cia de Talentos Academy, pensado para impulsionar o crescimento pessoal, profissional e relacional de jovens talentos em busca de preparo para os desafios do mercado de trabalho atual e futuro.
+
 1. **Inteligência Emocional 4.0**  
 **Instituição**: Conquer Business School  
 **Data de Conclusão**: 22/10/2024  
